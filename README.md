@@ -4,13 +4,6 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>-->
-### Hi there 👋, my name is Peter
-#### I am a Fullstack Developer at Resilient Coders
-![I am a Fullstack Developer at Resilient Coders](https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png)
-
-
-
-
 
 
 
