@@ -4,8 +4,9 @@
 <h3 align="left">Connect with me:</h3>
 <p align="left">
 </p>-->
-![github-header-image](https://user-images.githubusercontent.com/112198288/196727001-da5c61b2-04a7-4ea5-9ee0-091e69f4919b.png)
 
+
+![github-header-image (1)](https://user-images.githubusercontent.com/112198288/196727396-0360bccc-c01d-440d-8ebb-acd424ef0459.png)
 
 
 <h3 align="left">Languages and Tools:</h3>
