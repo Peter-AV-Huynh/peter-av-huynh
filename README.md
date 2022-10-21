@@ -17,7 +17,7 @@
 
 
 ## Who Am I?
-😊 Pronouns: he/his/him
+😊 Pronouns: he/him/his
 
 📍 I am from Boston<br>
 💻 I am currently working on JavaScript<br>
